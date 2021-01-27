@@ -4,3 +4,4 @@ the third script is a script to change the directory to the home directory of th
 the fourth script is a script to list all visible directories in a long format
 the fifth script is a script to list all files including the hidden ones in long format
 the sixth script is a script that displays files just like the one before but instead of the username it displays the user ID
+the seventh script created a directory name holberton in the tmp directory
