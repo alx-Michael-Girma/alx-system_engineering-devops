@@ -10,3 +10,4 @@ the ninth script deletes the betty file from the directory we just moved it to
 the tenth script deletes the holberton dir found in the tmp directory
 the eleventh script changes the pwd to the one before
 the twelfth script prints files in the pwd parent dir and the boot directory 
+the thirteenth script prints the detail of the file 'iamafile' in the tmp directory
