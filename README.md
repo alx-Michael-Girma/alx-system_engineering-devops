@@ -1,0 +1,1 @@
+this repo holds exercises on bash and devops
