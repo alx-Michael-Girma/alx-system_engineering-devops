@@ -1,4 +1,4 @@
-the first script is a script that prints the current working directory 
+Bthe first script is a script that prints the current working directory 
 the second script is a script that prints the files found in the directory
 the third script is a script to change the directory to the home directory of the current user
 the fourth script is a script to list all visible directories in a long format
@@ -14,3 +14,4 @@ the thirteenth script prints the detail of the file 'iamafile' in the tmp direct
 the __ls__ file is a symbolic link , a shortcut in windows, that links to a file
 the fifeenth script copies files to the parent dir iif there aren't any files or dest files are older
 the sixteenth script copies files starting with an uppercase letter to the u dir found in the tmp dir
+the seventeeth script deltes files created by the emacs editor
